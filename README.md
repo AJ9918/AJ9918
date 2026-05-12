@@ -28,17 +28,17 @@
 
 
 <!--Intro start-->
-- 🔭 He Trabajado con diferentes Herramientas : **Python, Autocad, SolidWork,Adobe Photoshop, Ilustrator, Office 365, Siesa Enterprise**
+- 🔭 He Trabajado con diferentes Herramientas : **Python,Java Script, PHP, Typescript, NodeJs, React, Versel, Postman, Laragon, Mongo Db, PostgrestSQL, MySql, Invanti Service Desk, Power Bi, Autocad, SolidWork,Adobe Photoshop, Ilustrator, Office 365, Siesa Enterprise**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, Google Drive, OneDrive, BD Relacionales and No Relacionles**
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **alvarolasso1899@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
@@ -104,7 +104,8 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/alvaro-lasso-599409233/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/alvarolassoc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href= "https://www.facebook.com/alvarojose.lassocampo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Facebook" height="50" width="50" /></a>
 <a href="https://discordapp.com/aj9918" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
